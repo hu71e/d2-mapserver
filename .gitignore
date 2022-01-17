@@ -8,5 +8,11 @@ node_modules/
 dist/
 run.sh
 runbeta.sh
-dockerbuild.bat
+dockerbuild.sh
 dockerbeta.bat
+dockerpush.bat
+dockerpushbeta.bat
+dockerstop.bat
+buildlod.bat
+dockerbuildlod.bat
+dockerbuildtest.bat
