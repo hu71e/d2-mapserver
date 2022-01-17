@@ -1,0 +1,12 @@
+build/
+!cache
+cache/*
+!cache/1034522_2.json
+game/
+node_modules/
+.vscode/
+dist/
+run.sh
+runbeta.sh
+dockerbuild.bat
+dockerbeta.bat

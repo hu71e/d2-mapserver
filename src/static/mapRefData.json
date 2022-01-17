@@ -1,0 +1,1772 @@
+{
+    "mapRefList": [
+        {
+            "id": 1,
+            "name": "Rogue Encampment",
+            "offset": {
+                "x": 5680,
+                "y": 4800
+            },
+            "size": {
+                "width": 280,
+                "height": 200
+            },
+            "act": 1
+        },
+        {
+            "id": 2,
+            "name": "Blood Moor",
+            "offset": {
+                "x": 5480,
+                "y": 4520
+            },
+            "size": {
+                "width": 480,
+                "height": 280
+            },
+            "act": 1
+        },
+        {
+            "id": 3,
+            "name": "Cold Plains",
+            "offset": {
+                "x": 5080,
+                "y": 4600
+            },
+            "size": {
+                "width": 400,
+                "height": 400
+            },
+            "act": 1
+        },
+        {
+            "id": 4,
+            "name": "Stony Field",
+            "offset": {
+                "x": 5000,
+                "y": 5000
+            },
+            "size": {
+                "width": 400,
+                "height": 400
+            },
+            "act": 1
+        },
+        {
+            "id": 5,
+            "name": "Dark Wood",
+            "offset": {
+                "x": 15800,
+                "y": 5250
+            },
+            "size": {
+                "width": 400,
+                "height": 400
+            },
+            "act": 1
+        },
+        {
+            "id": 6,
+            "name": "Black Marsh",
+            "offset": {
+                "x": 15400,
+                "y": 5170
+            },
+            "size": {
+                "width": 400,
+                "height": 400
+            },
+            "act": 1
+        },
+        {
+            "id": 7,
+            "name": "Tamoe Highland",
+            "offset": {
+                "x": 15000,
+                "y": 5090
+            },
+            "size": {
+                "width": 400,
+                "height": 400
+            },
+            "act": 1
+        },
+        {
+            "id": 8,
+            "name": "Den of Evil",
+            "offset": {
+                "x": 7500,
+                "y": 5000
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 1
+        },
+        {
+            "id": 9,
+            "name": "Cave Level 1",
+            "offset": {
+                "x": 7500,
+                "y": 6500
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 1
+        },
+        {
+            "id": 10,
+            "name": "Underground Passage Level 1",
+            "offset": {
+                "x": 7500,
+                "y": 8000
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 1
+        },
+        {
+            "id": 11,
+            "name": "Hole Level 1",
+            "offset": {
+                "x": 7500,
+                "y": 9500
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 1
+        },
+        {
+            "id": 12,
+            "name": "Pit Level 1",
+            "offset": {
+                "x": 7500,
+                "y": 11000
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 1
+        },
+        {
+            "id": 13,
+            "name": "Cave Level 2",
+            "offset": {
+                "x": 7500,
+                "y": 12500
+            },
+            "size": {
+                "width": 120,
+                "height": 120
+            },
+            "act": 1
+        },
+        {
+            "id": 14,
+            "name": "Underground Passage Level 2",
+            "offset": {
+                "x": 7500,
+                "y": 13120
+            },
+            "size": {
+                "width": 120,
+                "height": 120
+            },
+            "act": 1
+        },
+        {
+            "id": 15,
+            "name": "Hole Level 2",
+            "offset": {
+                "x": 7500,
+                "y": 13740
+            },
+            "size": {
+                "width": 120,
+                "height": 120
+            },
+            "act": 1
+        },
+        {
+            "id": 16,
+            "name": "Pit Level 2",
+            "offset": {
+                "x": 7500,
+                "y": 14360
+            },
+            "size": {
+                "width": 120,
+                "height": 120
+            },
+            "act": 1
+        },
+        {
+            "id": 17,
+            "name": "Burial Grounds",
+            "offset": {
+                "x": 4880,
+                "y": 4520
+            },
+            "size": {
+                "width": 200,
+                "height": 240
+            },
+            "act": 1
+        },
+        {
+            "id": 18,
+            "name": "Crypt",
+            "offset": {
+                "x": 10000,
+                "y": 5000
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 1
+        },
+        {
+            "id": 19,
+            "name": "Mausoleum",
+            "offset": {
+                "x": 10000,
+                "y": 6500
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 1
+        },
+        {
+            "id": 20,
+            "name": "Forgotten Tower",
+            "offset": {
+                "x": 10000,
+                "y": 8000
+            },
+            "size": {
+                "width": 40,
+                "height": 40
+            },
+            "act": 1
+        },
+        {
+            "id": 21,
+            "name": "Tower Cellar Level 1",
+            "offset": {
+                "x": 12500,
+                "y": 5000
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 1
+        },
+        {
+            "id": 22,
+            "name": "Tower Cellar Level 2",
+            "offset": {
+                "x": 12500,
+                "y": 6500
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 1
+        },
+        {
+            "id": 23,
+            "name": "Tower Cellar Level 3",
+            "offset": {
+                "x": 12500,
+                "y": 8000
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 1
+        },
+        {
+            "id": 24,
+            "name": "Tower Cellar Level 4",
+            "offset": {
+                "x": 12500,
+                "y": 9500
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 1
+        },
+        {
+            "id": 25,
+            "name": "Tower Cellar Level 5",
+            "offset": {
+                "x": 12500,
+                "y": 11000
+            },
+            "size": {
+                "width": 150,
+                "height": 150
+            },
+            "act": 1
+        },
+        {
+            "id": 26,
+            "name": "Monastery Gate",
+            "offset": {
+                "x": 15000,
+                "y": 5000
+            },
+            "size": {
+                "width": 320,
+                "height": 90
+            },
+            "act": 1
+        },
+        {
+            "id": 27,
+            "name": "Outer Cloister",
+            "offset": {
+                "x": 15000,
+                "y": 4800
+            },
+            "size": {
+                "width": 280,
+                "height": 200
+            },
+            "act": 1
+        },
+        {
+            "id": 28,
+            "name": "Barracks",
+            "offset": {
+                "x": 15060,
+                "y": 4450
+            },
+            "size": {
+                "width": 200,
+                "height": 350
+            },
+            "act": 1
+        },
+        {
+            "id": 29,
+            "name": "Jail Level 1",
+            "offset": {
+                "x": 17500,
+                "y": 5000
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 1
+        },
+        {
+            "id": 30,
+            "name": "Jail Level 2",
+            "offset": {
+                "x": 17500,
+                "y": 6500
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 1
+        },
+        {
+            "id": 31,
+            "name": "Jail Level 3",
+            "offset": {
+                "x": 17500,
+                "y": 8000
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 1
+        },
+        {
+            "id": 32,
+            "name": "Inner Cloister",
+            "offset": {
+                "x": 20000,
+                "y": 5000
+            },
+            "size": {
+                "width": 90,
+                "height": 100
+            },
+            "act": 1
+        },
+        {
+            "id": 33,
+            "name": "Cathedral",
+            "offset": {
+                "x": 19980,
+                "y": 4830
+            },
+            "size": {
+                "width": 140,
+                "height": 170
+            },
+            "act": 1
+        },
+        {
+            "id": 34,
+            "name": "Catacombs Level 1",
+            "offset": {
+                "x": 22500,
+                "y": 5000
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 1
+        },
+        {
+            "id": 35,
+            "name": "Catacombs Level 2",
+            "offset": {
+                "x": 22500,
+                "y": 6500
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 1
+        },
+        {
+            "id": 36,
+            "name": "Catacombs Level 3",
+            "offset": {
+                "x": 22500,
+                "y": 8000
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 1
+        },
+        {
+            "id": 37,
+            "name": "Catacombs Level 4",
+            "offset": {
+                "x": 22500,
+                "y": 9500
+            },
+            "size": {
+                "width": 110,
+                "height": 155
+            },
+            "act": 1
+        },
+        {
+            "id": 38,
+            "name": "Tristram",
+            "offset": {
+                "x": 25000,
+                "y": 5000
+            },
+            "size": {
+                "width": 215,
+                "height": 240
+            },
+            "act": 1
+        },
+        {
+            "id": 39,
+            "name": "Moo Moo Farm",
+            "offset": {
+                "x": 25000,
+                "y": 5740
+            },
+            "size": {
+                "width": 400,
+                "height": 400
+            },
+            "act": 1
+        },
+        {
+            "id": 40,
+            "name": "Lut Gholein",
+            "offset": {
+                "x": 5000,
+                "y": 5000
+            },
+            "size": {
+                "width": 280,
+                "height": 280
+            },
+            "act": 2
+        },
+        {
+            "id": 41,
+            "name": "Rocky Waste",
+            "offset": {
+                "x": 4600,
+                "y": 5000
+            },
+            "size": {
+                "width": 400,
+                "height": 400
+            },
+            "act": 2
+        },
+        {
+            "id": 42,
+            "name": "Dry Hills",
+            "offset": {
+                "x": 4360,
+                "y": 4600
+            },
+            "size": {
+                "width": 400,
+                "height": 400
+            },
+            "act": 2
+        },
+        {
+            "id": 43,
+            "name": "Far Oasis",
+            "offset": {
+                "x": 4120,
+                "y": 5000
+            },
+            "size": {
+                "width": 400,
+                "height": 400
+            },
+            "act": 2
+        },
+        {
+            "id": 44,
+            "name": "Lost City",
+            "offset": {
+                "x": 4360,
+                "y": 5400
+            },
+            "size": {
+                "width": 400,
+                "height": 400
+            },
+            "act": 2
+        },
+        {
+            "id": 45,
+            "name": "Valley of Snakes",
+            "offset": {
+                "x": 4760,
+                "y": 5400
+            },
+            "size": {
+                "width": 160,
+                "height": 160
+            },
+            "act": 2
+        },
+        {
+            "id": 46,
+            "name": "Canyon of the Magi",
+            "offset": {
+                "x": 12500,
+                "y": 5000
+            },
+            "size": {
+                "width": 400,
+                "height": 400
+            },
+            "act": 2
+        },
+        {
+            "id": 47,
+            "name": "Sewers Level 1",
+            "offset": {
+                "x": 7500,
+                "y": 5000
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 2
+        },
+        {
+            "id": 48,
+            "name": "Sewers Level 2",
+            "offset": {
+                "x": 7500,
+                "y": 6500
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 2
+        },
+        {
+            "id": 49,
+            "name": "Sewers Level 3",
+            "offset": {
+                "x": 7500,
+                "y": 8000
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 2
+        },
+        {
+            "id": 50,
+            "name": "Harem Level 1",
+            "offset": {
+                "x": 10000,
+                "y": 5000
+            },
+            "size": {
+                "width": 80,
+                "height": 95
+            },
+            "act": 2
+        },
+        {
+            "id": 51,
+            "name": "Harem Level 2",
+            "offset": {
+                "x": 10000,
+                "y": 5595
+            },
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "act": 2
+        },
+        {
+            "id": 52,
+            "name": "Palace Cellar Level 1",
+            "offset": {
+                "x": 10000,
+                "y": 6595
+            },
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "act": 2
+        },
+        {
+            "id": 53,
+            "name": "Palace Cellar Level 2",
+            "offset": {
+                "x": 10000,
+                "y": 7595
+            },
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "act": 2
+        },
+        {
+            "id": 54,
+            "name": "Palace Cellar Level 3",
+            "offset": {
+                "x": 10000,
+                "y": 8595
+            },
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "act": 2
+        },
+        {
+            "id": 55,
+            "name": "Stony Tomb Level 1",
+            "offset": {
+                "x": 15000,
+                "y": 5000
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 2
+        },
+        {
+            "id": 56,
+            "name": "Halls of the Dead Level 1",
+            "offset": {
+                "x": 15000,
+                "y": 6500
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 2
+        },
+        {
+            "id": 57,
+            "name": "Halls of the Dead Level 2",
+            "offset": {
+                "x": 15000,
+                "y": 8000
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 2
+        },
+        {
+            "id": 58,
+            "name": "Claw Viper Temple Level 1",
+            "offset": {
+                "x": 15000,
+                "y": 9500
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 2
+        },
+        {
+            "id": 59,
+            "name": "Stony Tomb Level 2",
+            "offset": {
+                "x": 15000,
+                "y": 11000
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 2
+        },
+        {
+            "id": 60,
+            "name": "Halls of the Dead Level 3",
+            "offset": {
+                "x": 15000,
+                "y": 12500
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 2
+        },
+        {
+            "id": 61,
+            "name": "Claw Viper Temple Level 2",
+            "offset": {
+                "x": 15000,
+                "y": 14000
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 2
+        },
+        {
+            "id": 62,
+            "name": "Maggot Lair Level 1",
+            "offset": {
+                "x": 17500,
+                "y": 5000
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 2
+        },
+        {
+            "id": 63,
+            "name": "Maggot Lair Level 2",
+            "offset": {
+                "x": 17500,
+                "y": 6500
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 2
+        },
+        {
+            "id": 64,
+            "name": "Maggot Lair Level 3",
+            "offset": {
+                "x": 17500,
+                "y": 8000
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 2
+        },
+        {
+            "id": 65,
+            "name": "Ancient Tunnels",
+            "offset": {
+                "x": 20000,
+                "y": 5000
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 2
+        },
+        {
+            "id": 66,
+            "name": "Tal Rasha's Tomb - Star",
+            "offset": {
+                "x": 22500,
+                "y": 5000
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 2
+        },
+        {
+            "id": 67,
+            "name": "Tal Rasha's Tomb - Square",
+            "offset": {
+                "x": 22500,
+                "y": 6500
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 2
+        },
+        {
+            "id": 68,
+            "name": "Tal Rasha's Tomb - Semi circle",
+            "offset": {
+                "x": 22500,
+                "y": 8000
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 2
+        },
+        {
+            "id": 69,
+            "name": "Tal Rasha's Tomb - Circle",
+            "offset": {
+                "x": 22500,
+                "y": 9500
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 2
+        },
+        {
+            "id": 70,
+            "name": "Tal Rasha's Tomb - Two Chevons",
+            "offset": {
+                "x": 22500,
+                "y": 11000
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 2
+        },
+        {
+            "id": 71,
+            "name": "Tal Rasha's Tomb - Triangle",
+            "offset": {
+                "x": 22500,
+                "y": 12500
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 2
+        },
+        {
+            "id": 72,
+            "name": "Tal Rasha's Tomb - Circle with line",
+            "offset": {
+                "x": 22500,
+                "y": 14000
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 2
+        },
+        {
+            "id": 73,
+            "name": "Duriel's Lair",
+            "offset": {
+                "x": 22500,
+                "y": 15500
+            },
+            "size": {
+                "width": 160,
+                "height": 235
+            },
+            "act": 2
+        },
+        {
+            "id": 74,
+            "name": "Arcane Sanctuary",
+            "offset": {
+                "x": 25000,
+                "y": 5000
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 2
+        },
+        {
+            "id": 75,
+            "name": "Kurast Docktown",
+            "offset": {
+                "x": 5000,
+                "y": 5000
+            },
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "act": 3
+        },
+        {
+            "id": 76,
+            "name": "Spider Forest",
+            "offset": {
+                "x": 5000,
+                "y": 4040
+            },
+            "size": {
+                "width": 320,
+                "height": 960
+            },
+            "act": 3
+        },
+        {
+            "id": 77,
+            "name": "Great Marsh",
+            "offset": {
+                "x": 4680,
+                "y": 3400
+            },
+            "size": {
+                "width": 320,
+                "height": 960
+            },
+            "act": 3
+        },
+        {
+            "id": 78,
+            "name": "Flayer Jungle",
+            "offset": {
+                "x": 5000,
+                "y": 3080
+            },
+            "size": {
+                "width": 320,
+                "height": 960
+            },
+            "act": 3
+        },
+        {
+            "id": 79,
+            "name": "Lower Kurast",
+            "offset": {
+                "x": 4960,
+                "y": 2760
+            },
+            "size": {
+                "width": 400,
+                "height": 320
+            },
+            "act": 3
+        },
+        {
+            "id": 80,
+            "name": "Kurast Bazaar",
+            "offset": {
+                "x": 4960,
+                "y": 2440
+            },
+            "size": {
+                "width": 400,
+                "height": 320
+            },
+            "act": 3
+        },
+        {
+            "id": 81,
+            "name": "Upper Kurast",
+            "offset": {
+                "x": 4960,
+                "y": 2120
+            },
+            "size": {
+                "width": 400,
+                "height": 320
+            },
+            "act": 3
+        },
+        {
+            "id": 82,
+            "name": "Kurast Causeway",
+            "offset": {
+                "x": 5040,
+                "y": 2040
+            },
+            "size": {
+                "width": 240,
+                "height": 80
+            },
+            "act": 3
+        },
+        {
+            "id": 83,
+            "name": "Travincal",
+            "offset": {
+                "x": 5000,
+                "y": 1720
+            },
+            "size": {
+                "width": 320,
+                "height": 320
+            },
+            "act": 3
+        },
+        {
+            "id": 84,
+            "name": "Arachnid Cave",
+            "offset": {
+                "x": 7500,
+                "y": 5000
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 3
+        },
+        {
+            "id": 85,
+            "name": "Spider Cavern",
+            "offset": {
+                "x": 7500,
+                "y": 6500
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 3
+        },
+        {
+            "id": 86,
+            "name": "Swampy Pit Level 1",
+            "offset": {
+                "x": 10000,
+                "y": 5000
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 3
+        },
+        {
+            "id": 87,
+            "name": "Swampy Pit Level 2",
+            "offset": {
+                "x": 10000,
+                "y": 6500
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 3
+        },
+        {
+            "id": 88,
+            "name": "Flayer Dungeon Level 1",
+            "offset": {
+                "x": 10000,
+                "y": 8000
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 3
+        },
+        {
+            "id": 89,
+            "name": "Flayer Dungeon Level 2",
+            "offset": {
+                "x": 10000,
+                "y": 9500
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 3
+        },
+        {
+            "id": 90,
+            "name": "Swampy Pit Level 3",
+            "offset": {
+                "x": 10000,
+                "y": 11000
+            },
+            "size": {
+                "width": 200,
+                "height": 200
+            },
+            "act": 3
+        },
+        {
+            "id": 91,
+            "name": "Flayer Dungeon Level 3",
+            "offset": {
+                "x": 10000,
+                "y": 11700
+            },
+            "size": {
+                "width": 200,
+                "height": 200
+            },
+            "act": 3
+        },
+        {
+            "id": 92,
+            "name": "Sewers Level 1",
+            "offset": {
+                "x": 12500,
+                "y": 5000
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 3
+        },
+        {
+            "id": 93,
+            "name": "Sewers Level 2",
+            "offset": {
+                "x": 12500,
+                "y": 6500
+            },
+            "size": {
+                "width": 90,
+                "height": 110
+            },
+            "act": 3
+        },
+        {
+            "id": 94,
+            "name": "Ruined Temple",
+            "offset": {
+                "x": 15000,
+                "y": 5000
+            },
+            "size": {
+                "width": 120,
+                "height": 120
+            },
+            "act": 3
+        },
+        {
+            "id": 95,
+            "name": "Disused Fane",
+            "offset": {
+                "x": 15000,
+                "y": 5620
+            },
+            "size": {
+                "width": 120,
+                "height": 120
+            },
+            "act": 3
+        },
+        {
+            "id": 96,
+            "name": "Forgotten Reliquary",
+            "offset": {
+                "x": 15000,
+                "y": 6240
+            },
+            "size": {
+                "width": 120,
+                "height": 120
+            },
+            "act": 3
+        },
+        {
+            "id": 97,
+            "name": "Forgotten Temple",
+            "offset": {
+                "x": 15000,
+                "y": 6860
+            },
+            "size": {
+                "width": 120,
+                "height": 120
+            },
+            "act": 3
+        },
+        {
+            "id": 98,
+            "name": "Ruined Fane",
+            "offset": {
+                "x": 15000,
+                "y": 7480
+            },
+            "size": {
+                "width": 120,
+                "height": 120
+            },
+            "act": 3
+        },
+        {
+            "id": 99,
+            "name": "Disused Reliquary",
+            "offset": {
+                "x": 15000,
+                "y": 8100
+            },
+            "size": {
+                "width": 120,
+                "height": 120
+            },
+            "act": 3
+        },
+        {
+            "id": 100,
+            "name": "Durance of Hate Level 1",
+            "offset": {
+                "x": 17500,
+                "y": 5000
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 3
+        },
+        {
+            "id": 101,
+            "name": "Durance of Hate Level 2",
+            "offset": {
+                "x": 17500,
+                "y": 6500
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 3
+        },
+        {
+            "id": 102,
+            "name": "Durance of Hate Level 3",
+            "offset": {
+                "x": 17500,
+                "y": 8000
+            },
+            "size": {
+                "width": 205,
+                "height": 145
+            },
+            "act": 3
+        },
+        {
+            "id": 103,
+            "name": "The Pandemonium Fortress",
+            "offset": {
+                "x": 5000,
+                "y": 5000
+            },
+            "size": {
+                "width": 160,
+                "height": 120
+            },
+            "act": 4
+        },
+        {
+            "id": 104,
+            "name": "Outer Steppes",
+            "offset": {
+                "x": 5160,
+                "y": 4960
+            },
+            "size": {
+                "width": 400,
+                "height": 320
+            },
+            "act": 4
+        },
+        {
+            "id": 105,
+            "name": "Plains of Despair",
+            "offset": {
+                "x": 5560,
+                "y": 4960
+            },
+            "size": {
+                "width": 320,
+                "height": 400
+            },
+            "act": 4
+        },
+        {
+            "id": 106,
+            "name": "City of the Damned",
+            "offset": {
+                "x": 5480,
+                "y": 5360
+            },
+            "size": {
+                "width": 400,
+                "height": 320
+            },
+            "act": 4
+        },
+        {
+            "id": 107,
+            "name": "River of Flame",
+            "offset": {
+                "x": 7500,
+                "y": 5600
+            },
+            "size": {
+                "width": 960,
+                "height": 840
+            },
+            "act": 4
+        },
+        {
+            "id": 108,
+            "name": "Chaos Sanctuary",
+            "offset": {
+                "x": 7500,
+                "y": 5000
+            },
+            "size": {
+                "width": 600,
+                "height": 600
+            },
+            "act": 4
+        },
+        {
+            "id": 109,
+            "name": "Harrogath",
+            "offset": {
+                "x": 5000,
+                "y": 5000
+            },
+            "size": {
+                "width": 200,
+                "height": 200
+            },
+            "act": 5
+        },
+        {
+            "id": 110,
+            "name": "Bloody Foothills",
+            "offset": {
+                "x": 3800,
+                "y": 5000
+            },
+            "size": {
+                "width": 1200,
+                "height": 240
+            },
+            "act": 5
+        },
+        {
+            "id": 111,
+            "name": "Frigid Highlands",
+            "offset": {
+                "x": 3480,
+                "y": 4360
+            },
+            "size": {
+                "width": 320,
+                "height": 800
+            },
+            "act": 5
+        },
+        {
+            "id": 112,
+            "name": "Arreat Plateau",
+            "offset": {
+                "x": 3000,
+                "y": 4040
+            },
+            "size": {
+                "width": 800,
+                "height": 320
+            },
+            "act": 5
+        },
+        {
+            "id": 113,
+            "name": "Crystalline Passage",
+            "offset": {
+                "x": 10000,
+                "y": 5000
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 5
+        },
+        {
+            "id": 114,
+            "name": "Frozen River",
+            "offset": {
+                "x": 10000,
+                "y": 6500
+            },
+            "size": {
+                "width": 320,
+                "height": 320
+            },
+            "act": 5
+        },
+        {
+            "id": 115,
+            "name": "Glacial Trail",
+            "offset": {
+                "x": 10000,
+                "y": 7320
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 5
+        },
+        {
+            "id": 116,
+            "name": "The Drifter Cavern",
+            "offset": {
+                "x": 10000,
+                "y": 8820
+            },
+            "size": {
+                "width": 160,
+                "height": 160
+            },
+            "act": 5
+        },
+        {
+            "id": 117,
+            "name": "Frozen Tundra",
+            "offset": {
+                "x": 10000,
+                "y": 9480
+            },
+            "size": {
+                "width": 320,
+                "height": 800
+            },
+            "act": 5
+        },
+        {
+            "id": 118,
+            "name": "The Ancients Way",
+            "offset": {
+                "x": 10000,
+                "y": 10380
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 5
+        },
+        {
+            "id": 119,
+            "name": "Icy Cellar",
+            "offset": {
+                "x": 10000,
+                "y": 11880
+            },
+            "size": {
+                "width": 160,
+                "height": 160
+            },
+            "act": 5
+        },
+        {
+            "id": 120,
+            "name": "Ancient Summit",
+            "offset": {
+                "x": 10000,
+                "y": 12540
+            },
+            "size": {
+                "width": 100,
+                "height": 140
+            },
+            "act": 5
+        },
+        {
+            "id": 121,
+            "name": "Nihlathaks Temple",
+            "offset": {
+                "x": 10000,
+                "y": 13180
+            },
+            "size": {
+                "width": 110,
+                "height": 135
+            },
+            "act": 5
+        },
+        {
+            "id": 122,
+            "name": "Halls of Anguish",
+            "offset": {
+                "x": 10000,
+                "y": 13815
+            },
+            "size": {
+                "width": 400,
+                "height": 400
+            },
+            "act": 5
+        },
+        {
+            "id": 123,
+            "name": "Halls of Pain",
+            "offset": {
+                "x": 10000,
+                "y": 14715
+            },
+            "size": {
+                "width": 400,
+                "height": 400
+            },
+            "act": 5
+        },
+        {
+            "id": 124,
+            "name": "Halls of Vaught",
+            "offset": {
+                "x": 12500,
+                "y": 5000
+            },
+            "size": {
+                "width": 420,
+                "height": 420
+            },
+            "act": 5
+        },
+        {
+            "id": 125,
+            "name": "Hell1",
+            "offset": {
+                "x": 12500,
+                "y": 5920
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 5
+        },
+        {
+            "id": 126,
+            "name": "Hell2",
+            "offset": {
+                "x": 12500,
+                "y": 7420
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 5
+        },
+        {
+            "id": 127,
+            "name": "Hell3",
+            "offset": {
+                "x": 12500,
+                "y": 8920
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 5
+        },
+        {
+            "id": 128,
+            "name": "The Worldstone Keep Level 1",
+            "offset": {
+                "x": 12500,
+                "y": 10420
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 5
+        },
+        {
+            "id": 129,
+            "name": "The Worldstone Keep Level 2",
+            "offset": {
+                "x": 12500,
+                "y": 11920
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 5
+        },
+        {
+            "id": 130,
+            "name": "The Worldstone Keep Level 3",
+            "offset": {
+                "x": 12500,
+                "y": 13420
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 5
+        },
+        {
+            "id": 131,
+            "name": "Throne of Destruction",
+            "offset": {
+                "x": 15000,
+                "y": 5000
+            },
+            "size": {
+                "width": 200,
+                "height": 260
+            },
+            "act": 5
+        },
+        {
+            "id": 132,
+            "name": "The Worldstone Chamber",
+            "offset": {
+                "x": 15000,
+                "y": 5760
+            },
+            "size": {
+                "width": 275,
+                "height": 275
+            },
+            "act": 5
+        },
+        {
+            "id": 133,
+            "name": "Pandemonium Run 1",
+            "offset": {
+                "x": 20000,
+                "y": 7500
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 5
+        },
+        {
+            "id": 134,
+            "name": "Pandemonium Run 2",
+            "offset": {
+                "x": 20000,
+                "y": 8500
+            },
+            "size": {
+                "width": 400,
+                "height": 400
+            },
+            "act": 5
+        },
+        {
+            "id": 135,
+            "name": "Pandemonium Run 3",
+            "offset": {
+                "x": 20000,
+                "y": 14420
+            },
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "act": 5
+        },
+        {
+            "id": 136,
+            "name": "Uber Tristram",
+            "offset": {
+                "x": 25000,
+                "y": 5000
+            },
+            "size": {
+                "width": 215,
+                "height": 240
+            },
+            "act": 5
+        }
+    ]
+}
