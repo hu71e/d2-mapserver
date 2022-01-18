@@ -59,9 +59,8 @@ app.listen(PORT, () => {
       console.error("Fog.dll not found in /app/game, check your game files volume path");
       process.exit();
     }
-    console.log(`Updating wine registry....`);
+    console.log(`Setting up wine config...`);
     execSync("winecfg", { env: { WINEPREFIX: '/app/wine_d2', WINEDEBUG: '-all,fixme-all', WINEARCH: 'win32' } });
-    execSync("wine regedit /app/d2.install.reg", { env: { WINEPREFIX: '/app/wine_d2', WINEDEBUG: '-all,fixme-all', WINEARCH: 'win32' } });
   } else {
     if (!fs.existsSync(path.join(D2_GAME_FILES, "Fog.dll"))) {
       console.error("Expected game files in this folder: " + path.resolve(D2_GAME_FILES));

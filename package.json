@@ -11,7 +11,7 @@
     "serve": "node build/server/server.js",
     "test": "npm run build && jest",
     "samples": "npm run build && node build/test/samples.js",
-    "build-exe": "caxa -i \"build\" -o \"dist/d2-mapserver.exe\" -- \"C:/Program Files/nodejs/node.exe\" \"E:/Dev/d2-mapserver/build/server/server.js\"",
+    "build-exe": "caxa -i . -e \"game\" \"dist\" \"bin\" -o \"dist/d2-mapserver.exe\" -- \"{{caxa}}/node_modules/.bin/node\" \"{{caxa}}/build/server/server.js\"",
     "obfuscate": "javascript-obfuscator ./build --output ./build --string-array true --options-preset low-obfuscation --string-array-encoding rc4 && npm run copy-files"
   },
   "author": "",
