@@ -9,7 +9,6 @@ https://github.com/joffreybesos/d2-mapserver/releases/latest
 
 - Download the `d2-mapserver-vxxx.zip` file from the above link.
 - Extract the zip file to it's own folder.
-- Double click the `d2.install.reg` file in the `bin` folder to add it to your registry
 - Download the D2 LoD game files - [zip download link](https://mega.nz/file/EgdmXT7C#sRNJGN-QlB24-9jqaI5DBWgFrbCw0Bezj-S0aY_Jn6k).
 - Extract the D2 LoD game files to a folder called `game` in your `d2-mapserver` folder  
     Your files should look like this:  
