@@ -10,6 +10,10 @@ This data can then be used to render an image of the map.
 This repo leverages this package - [blacha/diablo2](https://github.com/blacha/diablo2/tree/master/packages/map).
 `d2-mapserver` uses a modified version of that executable to get map data.
 
+## Installation
+
+See [INSTALLATION.md](./INSTALLATION.md)
+
 ## Endpoints
 
 ### Map image
