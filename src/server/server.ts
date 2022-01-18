@@ -17,6 +17,12 @@ require( "console-stamp" )( console, {
   }
 });
 
+
+const D2_GAME_FILES = process.env.D2_GAME_FILES || "./game";
+if (!fs.existsSync("./cache")) {
+  fs.mkdirSync("./cache")
+}
+
 // log all errors to file
 fs.writeFileSync('./cache/access.log', "");
 var accessLogStream = fs.createWriteStream('./cache/access.log', { flags: 'a' })
@@ -56,8 +62,13 @@ app.listen(PORT, () => {
     console.log(`Updating wine registry....`);
     execSync("winecfg", { env: { WINEPREFIX: '/app/wine_d2', WINEDEBUG: '-all,fixme-all', WINEARCH: 'win32' } });
     execSync("wine regedit /app/d2.install.reg", { env: { WINEPREFIX: '/app/wine_d2', WINEDEBUG: '-all,fixme-all', WINEARCH: 'win32' } });
+  } else {
+    if (!fs.existsSync(path.join(D2_GAME_FILES, "Fog.dll"))) {
+      console.error("Expected game files in this folder: " + path.resolve(D2_GAME_FILES));
+      console.error("You can configure the folder with 'set D2_GAME_FILES=D:\\Games\\Diablo 2'");
+      process.exit();
+    }
   }
-
   console.log(`Test this server by opening this link in your browser: http://localhost:${PORT}/v1/map/12345/2/117/image`);
   console.log(`For troubleshooting refer to https://github.com/joffreybesos/d2r-mapview/blob/master/SERVER.md#troubleshoot`);
   console.log(`Running on http://localhost:${PORT}`);

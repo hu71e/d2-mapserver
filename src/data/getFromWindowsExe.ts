@@ -2,6 +2,7 @@ import { Level } from "../types/level.type";
 import * as fs from "fs";
 import { spawn } from "child_process";
 import { performance } from "perf_hooks";
+import path = require("path/posix");
 
 export async function getFromWindowsExe(
   seed: string,
@@ -9,8 +10,9 @@ export async function getFromWindowsExe(
   mapId: number = 0
 ): Promise<Level[]> {
   const start = performance.now();
+  const D2_GAME_FILES = process.env.D2_GAME_FILES || "game";
   const cmd = [
-    "game",
+    path.resolve(D2_GAME_FILES),
     "--seed",
     seed,
     "--difficulty",

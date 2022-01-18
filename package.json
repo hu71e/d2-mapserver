@@ -2,7 +2,7 @@
   "name": "d2-mapserver",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "build/server/server.js",
   "scripts": {
     "build": "tsc && npm run copy-files",
     "build-linux": "tsc && npm run copy-files-linux",
@@ -11,6 +11,7 @@
     "serve": "node build/server/server.js",
     "test": "npm run build && jest",
     "samples": "npm run build && node build/test/samples.js",
+    "build-exe": "caxa -i \"build\" -o \"dist/d2-mapserver.exe\" -- \"C:/Program Files/nodejs/node.exe\" \"E:/Dev/d2-mapserver/build/server/server.js\"",
     "obfuscate": "javascript-obfuscator ./build --output ./build --string-array true --options-preset low-obfuscation --string-array-encoding rc4 && npm run copy-files"
   },
   "author": "",
@@ -29,11 +30,21 @@
     "cors": "^2.8.5",
     "cross-fetch": "^3.1.4",
     "express": "^4.17.1",
+    "caxa": "^2.1.0",
     "express-validator": "^6.13.0",
     "moment-timezone": "^0.5.33",
     "morgan": "^1.10.0",
     "trim-canvas": "^0.1.2",
     "uest": "^1.0.20",
     "uuid": "^8.3.2"
-  }
+  },
+  "pkg": {
+    "scripts": "build/**/*.js",
+    "assets": "build/static/**/*",
+    "targets": [
+      "node16-win-x64"
+    ],
+    "outputPath": "dist"
+  },
+  "bin": "build/server/server.js"
 }
