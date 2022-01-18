@@ -11,8 +11,8 @@ https://github.com/joffreybesos/d2-mapserver/releases/latest
 - Extract the zip file to it's own folder.
 - Download the D2 LoD game files - [zip download link](https://mega.nz/file/EgdmXT7C#sRNJGN-QlB24-9jqaI5DBWgFrbCw0Bezj-S0aY_Jn6k).
 - Extract the D2 LoD game files to a folder called `game` in your `d2-mapserver` folder
-    Your files should look like this:
-    ![](gamefiles.png)
+    Your files should look like this:  
+    ![](gamefiles.png)  
 - Double click the `d2-mapserver.exe` executable
 
 You should see a window popup with the text `Running on http://localhost:3002`
